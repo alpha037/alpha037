@@ -33,8 +33,8 @@
 - 💬 Ask me about anything, I'm happy to help! :smile:
 - 📬 How to reach me: [Drop me a text!][linkedin]
 - ⚡ One fact about me: I'm in awe with [Java.](https://www.oracle.com/java/technologies/)❤️
-- Another fact about me: I'm crazy about Post Rock Instrumentals. Check out [this playlist on spotify.](https://open.spotify.com/playlist/2cmd5Q6nCwHjnJ0X7ipyeL?si=TV6jtYowSj-qdnsjuZYVXw) :grin:
-- Let's connect! I'd love to know the kind of music you listen to.
+- ⚡Another fact about me: I'm crazy about Post Rock Instrumentals. Check out [this playlist on spotify.](https://open.spotify.com/playlist/2cmd5Q6nCwHjnJ0X7ipyeL?si=TV6jtYowSj-qdnsjuZYVXw) :grin:
+- 🎵 Let's connect! I'd love to know the kind of music you listen to.
 
 <br>
 
