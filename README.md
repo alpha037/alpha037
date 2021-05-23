@@ -46,16 +46,8 @@
 
 <br>
 
-<br>
-
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
-<!--[website]: -->
-
-[twitter]: https://twitter.com/sumanth_98?s=09
-
-<!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
 
 [instagram]: https://instagram.com/subhranil_dutta
 [linkedin]: https://www.linkedin.com/in/shubhranil-dutta-profile/
