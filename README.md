@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="res/banner.gif" width=800 height=200>
+  <img src="res/banner.gif" width=800 height=300>
 </p>
 
 <p>
@@ -40,7 +40,7 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alpha037&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="alpha037's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alpha037&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&cache_seconds=1800" alt="alpha037's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha037&show_icons=true&hide_border=true&theme=radical" width="37%" alt="alpha037's Top Languages">
 
