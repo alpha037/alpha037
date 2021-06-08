@@ -25,7 +25,7 @@
 
 <img align="right" height="270px" alt="GIF" src="res/laptop-guy.gif" />
 
-### I'm an Asst. System Engineer at [TCS](https://www.tcs.com/)
+### I'm a Systems Engineer at [TCS](https://www.tcs.com/)
 
 - 🔭 I’m currently working on my problem solving skills.
 - 🌱 I’m currently learning MEAN Stack Development.
