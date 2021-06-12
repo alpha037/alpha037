@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Your life is ruled by Recursion. The only problem is you can't backtrack.."</b></h4>
+  <h4 align="center"><b>"Your life is ruled by Recursion. The only difference is you can't backtrack."</b></h4>
 </p>
 
 <p align="center">
