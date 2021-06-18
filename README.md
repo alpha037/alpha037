@@ -44,9 +44,12 @@
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha037&show_icons=true&hide_border=true&theme=radical" width="37%" alt="alpha037's Top Languages">
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpha037&theme=dark" alt="alpha037's Github Streaks" width="70%">
+</div>
+
 <br>
 
-<div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 [instagram]: https://instagram.com/subhranil_dutta
