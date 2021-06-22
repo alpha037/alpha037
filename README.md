@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="res/banner.gif" width=800 height=300>
+  <a href="https://atlas.shubhranil.com" target="_blank"><img src="res/atlas.gif" width=854 height=300></a>
 </p>
 
 <p>
