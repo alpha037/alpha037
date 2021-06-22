@@ -10,9 +10,9 @@
   <h4 align="center"><b>"Your life is ruled by Recursion. The only difference is you can't backtrack."</b></h4>
 </p>
 
-<!-- <p align="center">
+<p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/alpha037" />
-</p> -->
+</p>
 
 <p align="center">
 <br>
