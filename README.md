@@ -28,7 +28,7 @@
 ### I'm a Systems Engineer at [TCS](https://www.tcs.com/)
 
 - 🔭 I’m currently working on my problem solving skills.
-- 🌱 I’m currently learning Nestjs MEAN Stack Development.
+- 🌱 I’m currently learning Nestjs and MEAN Stack Development.
 - 👯 I’m looking to collaborate with other Developers. :raised_hands:
 - 💬 Ask me about anything, I'm happy to help! :smile:
 - 📬 How to reach me: [Drop me a text!][linkedin]
