@@ -25,7 +25,7 @@
 
 <img align="right" height="280px" alt="GIF" src="https://media1.giphy.com/media/bAplZhiLAsNnG/giphy.gif?cid=790b7611a2f55660a74ef691e9079a0360cc33d6a4a5b6d3&rid=giphy.gif&ct=g" />
 
-### I'm a Systems Engineer at [TCS](https://www.tcs.com/)
+### I'm an SDE-1 at [Amazon](https://www.amazon.in/)
 
 - 🔭 I’m currently working on my problem solving skills.
 - 🌱 I’m currently learning Nestjs and MEAN Stack Development.
