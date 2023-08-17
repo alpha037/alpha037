@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/alpha037" />
-</p>
-
-<p align="center">
 <br>
 <a href="https://www.facebook.com/alpha037" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://instagram.com/salpha037" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
@@ -25,10 +21,10 @@
 
 <img align="right" height="280px" alt="GIF" src="https://media1.giphy.com/media/bAplZhiLAsNnG/giphy.gif?cid=790b7611a2f55660a74ef691e9079a0360cc33d6a4a5b6d3&rid=giphy.gif&ct=g" />
 
-### I'm an SDE-1 at [Amazon](https://www.amazon.in/)
+### I'm a Senior Software Engineer at [Sugarbox](https://sugarboxnetworks.com/)
 
-- 🔭 I’m currently working on my problem solving skills.
-- 🌱 I’m currently learning Nestjs and MEAN Stack Development.
+- 🔭 I’m currently working on my problem-solving skills.
+- 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate with other Developers. :raised_hands:
 - 💬 Ask me about anything, I'm happy to help! :smile:
 - 📬 How to reach me: [Drop me a text!][linkedin]
