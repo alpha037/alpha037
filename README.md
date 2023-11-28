@@ -48,5 +48,5 @@
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
-[instagram]: https://instagram.com/subhranil_dutta
-[linkedin]: https://www.linkedin.com/in/shubhranil-dutta-profile/
+[instagram]: https://instagram.com/salpha037
+[linkedin]: https://www.linkedin.com/in/alpha037/
