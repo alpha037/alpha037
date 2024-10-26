@@ -21,16 +21,16 @@
 
 <img align="right" height="280px" alt="GIF" src="https://media1.giphy.com/media/bAplZhiLAsNnG/giphy.gif?cid=790b7611a2f55660a74ef691e9079a0360cc33d6a4a5b6d3&rid=giphy.gif&ct=g" />
 
-### I'm a Senior Software Engineer at [Sugarbox](https://sugarboxnetworks.com/)
+### I'm a Software Engineer III at [Walmart Labs](https://tech.walmart.com/content/walmart-global-tech/en_us.html).
 
 - 🔭 I’m currently working on my problem-solving skills.
-- 🌱 I’m currently learning Golang.
+- 🌱 I’m currently learning Kubernetes.
 - 👯 I’m looking to collaborate with other Developers. :raised_hands:
 - 💬 Ask me about anything, I'm happy to help! :smile:
 - 📬 How to reach me: [Drop me a text!][linkedin]
 - ⚡ One fact about me: I'm in awe with [Java.](https://www.oracle.com/java/technologies/)❤️
 - ⚡Another fact about me: I'm crazy about Post Rock Instrumentals. Check out [this playlist on spotify.](https://open.spotify.com/playlist/2cmd5Q6nCwHjnJ0X7ipyeL?si=TV6jtYowSj-qdnsjuZYVXw) :grin:
-- 🎵 Let's connect! I'd love to know the kind of music you listen to.
+- 🎵 Let's connect! I'd love to know what kind of music you listen to.
 
 <br>
 
